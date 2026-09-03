@@ -4,7 +4,7 @@ Sorry but the service is just a scammer wanna keep a secret api for no reason.
 
 ## Technology
 - Python 3 + `requests`
-- TikTok API `https://api22-normal-c-alisg.tiktokv.com/tiktok/poi/review/get/v1` (Find this by)
+- TikTok API `https://api22-normal-c-alisg.tiktokv.com/tiktok/poi/review/get/v1` ( someone hides this for money i guess)
 - Pagination via `cursor` + `has_more`, dedup by `review_id`, sort by `create_time` (newest first)
 
 ## Setup
