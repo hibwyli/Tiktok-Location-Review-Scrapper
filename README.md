@@ -1,5 +1,5 @@
 # TikTok POI Review Scraper
-Use this because its free and  Apify charges you 1$/1000 reviews .  
+Use this because its **FREE** and  Apify charges you 1$/1000 reviews .  
 Sorry but the service is just a scammer wanna keep a secret api for no reason.
 
 ## Technology
