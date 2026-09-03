@@ -25,7 +25,7 @@ python3 tool/scrape.py <poi_id>
 From place URL `https://www.tiktok.com/place/Name-<poi_id>` - number after last `-`.
 Or short `https://vt.tiktok.com/ZS...` -> redirect `share_poi_id`.
 
-## More details 
+## More details (dont care if you just need data)
 
 ### How the API was leaked
 1. **Emulator** Pixel 7 Android 14 (KVM, 4GB/6c) with TikTok `com.ss.android.ugc.trill`, CA `c8750f0d.0` pushed to `/system/etc/security/cacerts` (via `adb root` + `remount` on `google_apis` image, PlayStore image is production and cannot `adb root`)
